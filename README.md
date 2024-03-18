@@ -39,8 +39,8 @@ https://velog.io/@disco9612/posts
    - 첫번째 개발 프로젝트
    - GIT을 이용하여 프로젝트 관리
   
-개발 상세 내용 : [링크](https://velog.io/@disco9612/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%97%90%EC%96%B4%ED%95%98%ED%82%A4-%EB%8B%B7%EC%A7%80-%EA%B2%8C%EC%9E%84-%EB%AA%A8%EC%9E%91)
-플레이 영상 : [링크](https://www.youtube.com/watch?v=6hLUU1YwEWY)
+- 개발 상세 내용 : [링크](https://velog.io/@disco9612/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%97%90%EC%96%B4%ED%95%98%ED%82%A4-%EB%8B%B7%EC%A7%80-%EA%B2%8C%EC%9E%84-%EB%AA%A8%EC%9E%91)
+- 플레이 영상 : [링크](https://www.youtube.com/watch?v=6hLUU1YwEWY)
 
 ### 2. 아이작 프로젝트
 1. 주요 내용
