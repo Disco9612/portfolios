@@ -56,4 +56,7 @@ https://velog.io/@disco9612/posts
    - 매니저 클래스들 활용
    - Git을 이용한 협업 스킬 숙달
 
+- 개발 상세 내용 :[링크](https://velog.io/@disco9612/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%95%84%EC%9D%B4%EC%9E%91-%EB%AA%A8%EC%9E%91)
+- 플레이 영상 :[링크](https://www.youtube.com/watch?v=mTDG1u1tWII&feature=youtu.be)
+
 
