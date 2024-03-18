@@ -22,9 +22,9 @@ https://velog.io/@disco9612/posts
 
 
 ## 기술
-C#
-Unity
-GIT
+- C#
+- Unity
+- GIT
 
 ## 프로젝트
 
